@@ -7,7 +7,7 @@ with open('README.md', encoding='utf-8') as f:
 # Setup function
 setup(
     name='image_capturer',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=['opencv-python'],
     author='Asmit Jha',
